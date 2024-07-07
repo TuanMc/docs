@@ -1,0 +1,26 @@
+Paper	Author(s)	Year	Source	Type	Security Threats	Source of Threats	Solution Type	Applicability Level	Validation Method	Mean (Control)	Std Dev (Control)	Sample Size (Control)	Mean (Treatment)	Std Dev (Treatment)	Sample Size (Treatment)
+P1	Smith et al.	2016	IEEE	Conference	Unauthorized Access	External	General Protection Measures	Application Layer	Case Study	4.5	0.5	30	4.7	0.6	30
+P2	Doe et al.	2017	ACM	Journal	Data Breach	Internal	Framework	Data Layer	Simulation	5.1	0.6	30	5.3	0.7	30
+P3	Johnson et al.	2018	Springer	Journal	Insider Threat	Internal	Technique	Infrastructure Layer	Formal Verification	3.9	0.5	30	4.0	0.6	30
+P4	Lee et al.	2019	Elsevier	Conference	Denial of Service	External	Tool	Network Layer	Empirical Evaluation	4.8	0.7	30	5.0	0.8	30
+P5	Kim et al.	2020	IEEE	Journal	Man-in-the-Middle Attack	External	Methodology	Application Layer	Case Study	4.4	0.6	30	4.6	0.7	30
+P6	Brown et al.	2021	Wiley	Conference	Unauthorized Access	External	General Protection Measures	Application Layer	Case Study	4.6	0.6	30	4.8	0.7	30
+P7	Green et al.	2022	IEEE	Journal	Data Breach	Internal	Framework	Data Layer	Simulation	5.2	0.7	30	5.4	0.8	30
+P8	Davis et al.	2023	ACM	Conference	Insider Threat	Internal	Technique	Infrastructure Layer	Formal Verification	4.0	0.5	30	4.2	0.6	30
+P9	Lee et al.	2024	Elsevier	Journal	Denial of Service	External	Tool	Network Layer	Empirical Evaluation	4.9	0.7	30	5.1	0.8	30
+P10	Kim et al.	2024	Springer	Journal	Man-in-the-Middle Attack	External	Methodology	Application Layer	Case Study	4.5	0.6	30	4.7	0.7	30
+P11	Martinez et al.	2016	ACM	Journal	Unauthorized Access	Internal	Technique	Application Layer	Formal Verification	3.8	0.5	30	4.0	0.6	30
+P12	Gupta et al.	2017	IEEE	Conference	Data Breach	External	Framework	Data Layer	Empirical Evaluation	5.1	0.6	30	5.3	0.7	30
+P13	Patel et al.	2018	Springer	Journal	Insider Threat	Internal	Tool	Infrastructure Layer	Simulation	4.0	0.5	30	4.2	0.6	30
+P14	Thomas et al.	2019	Elsevier	Conference	Denial of Service	External	General Protection Measures	Network Layer	Case Study	4.9	0.7	30	5.1	0.8	30
+P15	Williams et al.	2020	IEEE	Journal	Man-in-the-Middle Attack	External	Methodology	Application Layer	Simulation	4.4	0.6	30	4.6	0.7	30
+P16	Nguyen et al.	2021	ACM	Journal	Unauthorized Access	Internal	Technique	Application Layer	Empirical Evaluation	4.6	0.6	30	4.8	0.7	30
+P17	Kim et al.	2022	Wiley	Conference	Data Breach	External	Framework	Data Layer	Formal Verification	5.2	0.7	30	5.4	0.8	30
+P18	Anderson et al.	2023	Springer	Journal	Insider Threat	Internal	Tool	Infrastructure Layer	Case Study	4.0	0.5	30	4.2	0.6	30
+P19	Hernandez et al.	2024	Elsevier	Journal	Denial of Service	External	General Protection Measures	Network Layer	Simulation	4.9	0.7	30	5.1	0.8	30
+P20	Lee et al.	2024	IEEE	Conference	Man-in-the-Middle Attack	External	Methodology	Application Layer	Empirical Evaluation	4.4	0.6	30	4.6	0.7	30
+P21	Patel et al.	2016	ACM	Journal	Unauthorized Access	Internal	Framework	Application Layer	Formal Verification	3.8	0.5	30	4.0	0.6	30
+P22	Davis et al.	2017	Springer	Conference	Data Breach	External	General Protection Measures	Data Layer	Simulation	5.1	0.6	30	5.3	0.7	30
+P23	Green et al.	2018	Elsevier	Journal	Insider Threat	Internal	Tool	Infrastructure Layer	Case Study	4.0	0.5	30	4.2	0.6	30
+P24	Smith et al.	2019	IEEE	Journal	Denial of Service	External	Methodology	Network Layer	Empirical Evaluation	4.9	0.7	30	5.1	0.8	30
+P25	Kim et al.	2020	Wiley	Conference	Man-in-the-Middle Attack	External	Technique	Application Layer	Simulation	4.4	0.6	30	4.6	0.7	30
